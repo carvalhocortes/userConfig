@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "24667c6a2c6361a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "9138ed44564ecb3c",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d5a0e11afcd27648",
+    "type": "split",
+    "children": [
+      {
+        "id": "04226b1da26f862e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e180016ce37d636",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d74724760527f48c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "79a268b0393264c4",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "358f156d4bd1c019",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f1fe6f98a4a978e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd0506489c221e5c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3d5c81a8f35ca2db",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bfc3e832d4dead31",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d8696f20bfdc9e02",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "9138ed44564ecb3c",
+  "lastOpenFiles": [
+    "Ewally/Tabelas/userConfigHistory.md",
+    "Ewally/Tabelas/userConfig.md",
+    "Ewally/Migrações/Migrações.md",
+    "Documentação/03.1 - Criação de grupo.md",
+    "Documentação/03.2 - Alteração de grupo.md",
+    "Documentação/03 - Os grupos.md",
+    "Documentação/02 - As configurações.md",
+    "Documentação/01 - Visão Geral.md",
+    "Documentação/04.4 - Listar todos dos usuários de um grupo.md",
+    "Documentação/03.4 - Listar todos os grupos.md"
+  ]
+}
